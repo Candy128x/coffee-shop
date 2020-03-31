@@ -1,5 +1,4 @@
 # Commands
-	
 
 ---
 ## create react app
@@ -19,3 +18,14 @@
 - => npm i -S react-flip-move
 
 
+
+---
+---
+# Note
+@ref
+
+---
+- route
+>https://www.youtube.com/watch?v=Law7wfdg_ls
+
+---
